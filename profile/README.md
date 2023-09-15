@@ -1,4 +1,6 @@
-## Hi there 👋
+## Taoist Labs
+
+https://taoist.dev
 
 <!--
 
@@ -10,3 +12,15 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Chunqiu - SeeDAO History 核心repo - https://github.com/Taoist-Labs/chunqiu
+
+Biling - SeeDAO API 系统核心repo - https://github.com/Taoist-Labs/biling
+
+SeeDAO JS - SeeDAO JS库repo - https://github.com/Taoist-Labs/seedao-js
+
+SNS - SNS 的核心合约 - https://github.com/Taoist-Labs/sns
+
+SNS JS - SNS 的 JS SDK - https://github.com/Taoist-Labs/sns-js
+
+SNS Go - SNS 的 Go SDK - https://github.com/Taoist-Labs/sns-go
