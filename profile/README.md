@@ -24,3 +24,5 @@ SNS - SNS 的核心合约 - https://github.com/Taoist-Labs/sns
 SNS JS - SNS 的 JS SDK - https://github.com/Taoist-Labs/sns-js
 
 SNS Go - SNS 的 Go SDK - https://github.com/Taoist-Labs/sns-go
+
+SeeAuth - SeeAuth JS SDK - https://github.com/Taoist-Labs/see-auth
