@@ -1,4 +1,4 @@
-## Taoist Labs (The Mirror)
+## Taoist Labs (The Mirror) https://github.com/teamtaoist
 
 https://taoist.dev
 
